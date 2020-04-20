@@ -1,0 +1,7 @@
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\YukiLong\Documents\MSSA\Mentor Calls\Whiteboarding\ReverseString\obj\Debug\ReverseString.pdb
